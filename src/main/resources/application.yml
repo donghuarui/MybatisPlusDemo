@@ -1,7 +1,0 @@
-# DataSource Config
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://dev.qjun.com.cn:3306/test
-    username: qjun_dev
-    password: 6^KwwVPbxz4RTaBebDG&YJ3!USLMiVyU
